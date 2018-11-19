@@ -1,0 +1,12 @@
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/bin/Release/netcoreapp2.0/LoggerService.deps.json
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/bin/Release/netcoreapp2.0/LoggerService.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/bin/Release/netcoreapp2.0/LoggerService.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/bin/Release/netcoreapp2.0/Contracts.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/bin/Release/netcoreapp2.0/Contracts.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.csprojAssemblyReference.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.AssemblyInfoInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.AssemblyInfo.cs
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.csproj.CopyComplete
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/LoggerService/obj/Release/netcoreapp2.0/LoggerService.pdb

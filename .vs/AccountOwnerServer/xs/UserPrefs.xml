@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{207F6925-C775-45F4-AA7D-72D92F469D34}|Default" GitUserInfo="UsingGIT" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountOwnerClient Status">
+    <Files>
+      <File FileName="AccountOwnerServer Status" />
+      <File FileName="AccountOwnerClient Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountOwnerServer" expanded="True">
+            <Node name="AccountOwnerServer" expanded="True">
+              <Node name="AccountOwnerClient" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AccountOwnerServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

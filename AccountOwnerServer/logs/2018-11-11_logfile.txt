@@ -1,0 +1,47 @@
+2018-11-11 06:11:39.8814 INFO Here is info message from our values controller.
+2018-11-11 06:11:39.9216 DEBUG Here is debug message from our values controller.
+2018-11-11 06:11:39.9232 WARN Here is warn message from our values controller.
+2018-11-11 06:11:39.9232 ERROR Here is error message from our values controller.
+2018-11-11 08:54:20.9028 INFO Returned all owners from databse.
+2018-11-11 08:55:49.9183 INFO Returned all owners from databse.
+2018-11-11 08:56:03.1372 INFO Returned all owners from databse.
+2018-11-11 09:01:50.1859 INFO Returned all owners from databse.
+2018-11-11 09:02:32.9546 INFO Returned all owners from databse.
+2018-11-11 09:06:32.0039 INFO Returned all owners from databse.
+2018-11-11 09:17:02.9585 INFO Returned all owners from databse.
+2018-11-11 09:36:43.8487 INFO Returned all owners from databse.
+2018-11-11 09:37:08.4230 INFO Returned all owners from databse.
+2018-11-11 09:40:37.7104 INFO Returned all owners from databse.
+2018-11-11 09:47:18.0440 INFO Returned all owners from databse.
+2018-11-11 09:48:11.6224 INFO Returned all owners from databse.
+2018-11-11 09:49:32.1044 INFO Returned all owners from databse.
+2018-11-11 09:50:50.4140 INFO Returned all owners from databse.
+2018-11-11 09:51:09.4322 INFO Returned all owners from databse.
+2018-11-11 09:51:36.5718 INFO Returned all owners from databse.
+2018-11-11 09:51:52.9379 INFO Returned all owners from databse.
+2018-11-11 09:52:16.3008 INFO Returned all owners from databse.
+2018-11-11 09:55:07.4141 INFO Returned all owners from databse.
+2018-11-11 09:55:10.3202 INFO Returned all owners from databse.
+2018-11-11 09:55:36.3490 INFO Returned all owners from databse.
+2018-11-11 09:59:00.4349 INFO Returned all owners from databse.
+2018-11-11 10:00:35.7955 ERROR Something went wrong inside GetAllOwners action: Method not found: 'System.Reflection.MethodInfo Microsoft.EntityFrameworkCore.Query.EntityQueryModelVisitor.get_SelectAsyncMethod()'.
+2018-11-11 10:01:23.9418 ERROR Something went wrong inside GetAllOwners action: Method not found: 'System.Reflection.MethodInfo Microsoft.EntityFrameworkCore.Query.EntityQueryModelVisitor.get_SelectAsyncMethod()'.
+2018-11-11 10:04:44.1353 ERROR Something went wrong inside GetAllOwners action: Method not found: 'System.Reflection.MethodInfo Microsoft.EntityFrameworkCore.Query.EntityQueryModelVisitor.get_SelectAsyncMethod()'.
+2018-11-11 10:05:45.6712 INFO Returned all owners from databse.
+2018-11-11 10:08:43.2297 INFO Returned all owners from databse.
+2018-11-11 10:09:35.8532 INFO Returned all owners from databse.
+2018-11-11 10:15:55.8850 INFO Returned all owners from databse.
+2018-11-11 10:16:27.6395 INFO Returned all owners from databse.
+2018-11-11 10:19:05.0287 INFO Returned all owners from databse.
+2018-11-11 10:23:42.3955 INFO Returned all owners from databse.
+2018-11-11 10:41:07.1983 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2018-11-11 10:41:28.7789 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5624, hasn't been found in db.
+2018-11-11 10:41:33.9011 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5624, hasn't been found in db.
+2018-11-11 10:45:50.6153 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5624, hasn't been found in db.
+2018-11-11 10:46:17.3474 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2018-11-11 11:09:20.6434 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2018-11-11 11:14:13.6326 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2018-11-11 11:14:59.9791 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2018-11-11 11:18:34.6478 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2018-11-11 14:18:17.2884 ERROR Invalid owner object sent from client.
+2018-11-11 15:15:19.8716 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Delete those accounts first

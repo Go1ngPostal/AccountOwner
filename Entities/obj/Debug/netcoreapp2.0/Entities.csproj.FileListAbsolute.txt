@@ -1,0 +1,9 @@
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.0/Entities.deps.json
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.0/Entities.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.0/Entities.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.csprojAssemblyReference.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.csproj.CoreCompileInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.AssemblyInfoInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.AssemblyInfo.cs
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.0/Entities.pdb

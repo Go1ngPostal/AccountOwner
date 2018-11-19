@@ -1,0 +1,12 @@
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.0/Contracts.deps.json
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.0/Contracts.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.0/Contracts.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.AssemblyInfoInputs.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.AssemblyInfo.cs
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.0/Entities.dll
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.0/Entities.pdb
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.csprojAssemblyReference.cache
+/Users/jameslamorte/Projects/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.0/Contracts.csproj.CopyComplete
